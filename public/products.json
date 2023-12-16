@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "product_name": "Birthday Balloons",
+      "product_picture": "https://i.ibb.co/2t7hMBp/images-1.jpg",
+      "price_low_range": 19.99
+    },
+    {
+      "id": "2",
+      "product_name": "Birthday Centerpiece",
+      "product_picture": "https://i.ibb.co/Qbvr7pW/images.jpg",
+      "price_low_range": 9.99
+    },
+    {
+      "id": "3",
+      "product_name": "Bundle of Lollies",
+      "product_picture": "https://i.ibb.co/6ZF6kds/images-2.jpg",
+      "price_low_range": 14.99
+    },
+    {
+      "id": "4",
+      "product_name": "Colorful Balloons",
+      "product_picture": "https://i.ibb.co/v1VxhGZ/download-1.jpg",
+      "price_low_range": 9.99
+    },
+    {
+      "id": "5",
+      "product_name": "Happy Birthday Ballons",
+      "product_picture": "https://i.ibb.co/2t7hMBp/images-1.jpg",
+      "price_low_range": 12.99
+    },
+    {
+      "id": "6",
+      "product_name": "LED Balloon Pack",
+      "product_picture": "https://i.ibb.co/p43F7yw/download-2.jpg",
+      "price_low_range": 7.99
+    },
+    {
+      "id": "7",
+      "product_name": "One-year-old Piece",
+      "product_picture": "https://i.ibb.co/xmN64Lq/images-3.jpg",
+      "price_low_range": 5.99
+    },
+    {
+      "id": "8",
+      "product_name": "Festive Party Hats",
+      "product_picture": "https://i.ibb.co/XsFbx0M/download-3.jpg",
+      "price_low_range": 3.99
+    },
+    {
+      "id": "9",
+      "product_name": "Party Centerpiece",
+      "product_picture": "https://i.ibb.co/745wX17/images-4.jpg",
+      "price_low_range": 14.99
+    },
+    {
+      "id": "10",
+      "product_name": "Silicone Cake Molds",
+      "product_picture": "https://i.ibb.co/FzF1V23/images-5.jpg",
+      "price_low_range": 8.99
+    }
+  ]
+  

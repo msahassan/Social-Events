@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "title": "Special Occasions",
+      "background_image": "https://i.ibb.co/b2rgw8P/friends-581753-640.jpg",
+      "description": "Make your special occasions truly unforgettable with our event planning services. Whether it's a milestone birthday, a family reunion, or a unique celebration, our team is dedicated to creating magical moments that last a lifetime.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/special_occasions_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Dream Events",
+      "comments": [
+        "Dream Events made our special occasion truly magical!",
+        "The attention to detail was impeccable.",
+        "Highly recommend for all your celebrations."
+      ],
+      "price_high_range": "$500"
+    },
+    {
+      "id": "2",
+      "title": "Holiday Parties",
+      "background_image": "https://i.ibb.co/MVwvYdd/beach-2433476-640.jpg",
+      "description": "Celebrate the holiday season in style with our expert event planning. From festive decorations to themed parties, we'll turn your holiday gathering into a winter wonderland filled with joy, laughter, and unforgettable memories.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/holiday_parties_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Festive Affairs",
+      "comments": [
+        "Festive Affairs transformed our holiday party!",
+        "The atmosphere was magical, and everyone had a blast.",
+        "Exceptional service from start to finish."
+      ],
+      "price_high_range": "$550"
+    },
+    {
+      "id": "3",
+      "title": "Graduations",
+      "background_image": "https://i.ibb.co/j38qJkK/glasses-213156-640.jpg",
+      "description": "Mark the milestone of graduation with a celebration that reflects the graduate's achievements. Our event planning team specializes in creating memorable graduation parties that honor the hard work and dedication of the graduate.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/graduation_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Cap and Gown Events",
+      "comments": [
+        "Cap and Gown Events made our graduation celebration unforgettable!",
+        "The decorations were spot-on, and the atmosphere was festive.",
+        "Highly recommended for all graduates."
+      ],
+      "price_high_range": "$500"
+    },
+    {
+      "id": "4",
+      "title": "Engagement Parties",
+      "background_image": "https://i.ibb.co/q1ryzbc/wedding-bouquet-3395313-640.jpg",
+      "description": "Celebrate the joyous occasion of engagement with a party that captures the love and excitement of the couple. Our event planners specialize in creating romantic and personalized engagement parties that set the stage for a beautiful journey ahead.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/engagement_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Eternal Events",
+      "comments": [
+        "Eternal Events exceeded our expectations for our engagement party!",
+        "The decor was stunning, and the attention to detail was impressive.",
+        "Highly recommended for all engaged couples."
+      ],
+      "price_high_range": "$550"
+    },
+    {
+      "id": "5",
+      "title": "Bar and Bat Mitzvahs",
+      "background_image": "https://i.ibb.co/XLztwBv/drinks-1283608-640.jpg",
+      "description": "Celebrate the coming of age with a meaningful and joyous Bar or Bat Mitzvah. Our event planning team understands the significance of this milestone and works to create a memorable and culturally rich celebration for your family.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/bar_bat_mitzvahs_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Mitzvah Moments",
+      "comments": [
+        "Mitzvah Moments made our Bar Mitzvah truly special!",
+        "The ceremony was beautiful, and the party was a blast.",
+        "Exceptional service and attention to tradition."
+      ],
+      "price_high_range": "$500"
+    },
+    {
+      "id": "6",
+      "title": "Birthdays",
+      "background_image": "https://i.ibb.co/BZCcxz7/birthday-2338813-640.jpg",
+      "description": "Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/birthday_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Birthday Bliss Events",
+      "comments": [
+        "Birthday Bliss Events made my celebration unforgettable!",
+        "The theme was perfect, and the attention to detail was superb.",
+        "Highly recommended for a personalized birthday experience."
+      ],
+      "price_high_range": "$550"
+    },
+    {
+      "id": "7",
+      "title": "Bridal and Baby Showers",
+      "background_image": "https://i.ibb.co/zFGGkXN/balloons-1786430-640.jpg",
+      "description": "Celebrate the journey to marriage or parenthood with a beautiful and joyous shower. Our event planners specialize in creating intimate and personalized gatherings that honor the bride-to-be or parents-to-be.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/bridal_baby_showers_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Joyful Occasions",
+      "comments": [
+        "Joyful Occasions made our shower celebrations unforgettable!",
+        "The decor was lovely, and the atmosphere was joyful.",
+        "Exceptional service and attention to special moments."
+      ],
+      "price_high_range": "$500"
+    },
+    {
+      "id": "8",
+      "title": "Anniversaries",
+      "background_image": "https://i.ibb.co/ZLy6PTN/streamer-3088458-640.jpg",
+      "description": "Celebrate the love and commitment of a lasting marriage with a memorable anniversary event. Our event planning team specializes in creating romantic and personalized celebrations that honor the journey of love.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.Celebrate another trip around the sun with a birthday party tailored to your personality and style. Our event planners specialize in creating unique and memorable birthday experiences for all ages.",
+      "picture": "https://example.com/anniversary_event.jpg",
+      "author_img": "https://example.com/event_agency_logo.jpg",
+      "author_name": "Everlasting Events",
+      "comments": [
+        "Everlasting Events made our anniversary celebration truly special!",
+        "The romantic ambiance was perfect, and the attention to detail was remarkable.",
+        "Highly recommended for a love-filled anniversary."
+      ],
+      "price_high_range": "$550"
+    }
+  ]
+  

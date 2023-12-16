@@ -1,0 +1,76 @@
+[
+    {
+      "id": "1",
+      "staff_name": "Alex Miller",
+      "staff_img": "https://i.ibb.co/W52tRt3/images-8.jpg",
+      "staff_designation": "Event Coordinator",
+      "facebook_link": "https://www.facebook.com/alex.miller",
+      "linkedin_link": "https://www.linkedin.com/in/alexmiller",
+      "twitter_link": "https://twitter.com/alex_miller"
+    },
+    {
+      "id": "2",
+      "staff_name": "Jessica White",
+      "staff_img": "https://i.ibb.co/K5fsD1Z/images-9.jpg",
+      "staff_designation": "Marketing Specialist",
+      "facebook_link": "https://www.facebook.com/jessica.white",
+      "linkedin_link": "https://www.linkedin.com/in/jessicawhite",
+      "twitter_link": "https://twitter.com/jessica_white"
+    },
+    {
+      "id": "3",
+      "staff_name": "Ryan Johnson",
+      "staff_img": "https://i.ibb.co/W52tRt3/images-8.jpg",
+      "staff_designation": "Event Planner",
+      "facebook_link": "https://www.facebook.com/ryan.johnson",
+      "linkedin_link": "https://www.linkedin.com/in/ryanjohnson",
+      "twitter_link": "https://twitter.com/ryan_johnson"
+    },
+    {
+      "id": "4",
+      "staff_name": "Emily Davis",
+      "staff_img": "https://i.ibb.co/MPT0smD/images-6.jpg",
+      "staff_designation": "Creative Director",
+      "facebook_link": "https://www.facebook.com/emily.davis",
+      "linkedin_link": "https://www.linkedin.com/in/emilydavis",
+      "twitter_link": "https://twitter.com/emily_davis"
+    },
+    {
+        "id": "5",
+        "staff_name": "David Carter",
+        "staff_img": "https://i.ibb.co/W52tRt3/images-8.jpg",
+        "staff_designation": "Logistics Coordinator",
+        "facebook_link": "https://www.facebook.com/david.carter",
+        "linkedin_link": "https://www.linkedin.com/in/davidcarter",
+        "twitter_link": "https://twitter.com/david_carter"
+      },
+      {
+        "id": "6",
+        "staff_name": "Sophie Robinson",
+        "staff_img": "https://i.ibb.co/K5fsD1Z/images-9.jpg",
+        "staff_designation": "Event Decorator",
+        "facebook_link": "https://www.facebook.com/sophie.robinson",
+        "linkedin_link": "https://www.linkedin.com/in/sophierobinson",
+        "twitter_link": "https://twitter.com/sophie_robinson"
+      },
+      {
+        "id": "7",
+        "staff_name": "Chris Adams",
+        "staff_img": "https://i.ibb.co/vQXyR84/images-7.jpg",
+        "staff_designation": "Audio-Visual Technician",
+        "facebook_link": "https://www.facebook.com/chris.adams",
+        "linkedin_link": "https://www.linkedin.com/in/chrisadams",
+        "twitter_link": "https://twitter.com/chris_adams"
+      },
+      {
+        "id": "8",
+        "staff_name": "Megan Foster",
+        "staff_img": "https://i.ibb.co/MPT0smD/images-6.jpg",
+        "staff_designation": "Public Relations Manager",
+        "facebook_link": "https://www.facebook.com/megan.foster",
+        "linkedin_link": "https://www.linkedin.com/in/meganfoster",
+        "twitter_link": "https://twitter.com/megan_foster"
+      }
+
+  ]
+  
