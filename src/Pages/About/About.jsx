@@ -1,6 +1,6 @@
 import {  useEffect, useState } from "react";
 import StuffData from "./StuffData";
-
+import download from '../../assets/Image/download.png'
 
 const About = () => {
 
@@ -27,9 +27,12 @@ const About = () => {
         we believe our services should be as well. We know that it <br /> should
         be “Can I hire a planner?” not “Can I afford one?”.
       </p>
+      <img className="w-[48rem] mx-auto mt-12" src={download} alt="" />
      </div>
 
-
+   
+     
+ 
      {/* Staff section// */}
      <div className=" bg-slate-100 py-10">
         <h1 className="text-5xl font-bold text-center">Our Staff</h1>
