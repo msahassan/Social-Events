@@ -23,7 +23,7 @@ const About = () => {
       <p className="text-2xl">~~</p>
       <p className="text-lg font-medium">
         As the premier event planning company in New York City, we know that
-        it’s not “one size fits all”. <br /> Each event and client is unique and
+        its not “one size fits all”. <br /> Each event and client is unique and
         we believe our services should be as well. We know that it <br /> should
         be “Can I hire a planner?” not “Can I afford one?”.
       </p>

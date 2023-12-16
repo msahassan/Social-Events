@@ -1,7 +1,7 @@
 import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
-
+import PropTypes from 'prop-types';
 const StuffData = ({staffData}) => {
-    const {id,staff_name,staff_img,staff_designation,facebook_link,linkedin_link,twitter_link} =staffData
+    const {staff_name,staff_img,staff_designation,facebook_link,linkedin_link,twitter_link} =staffData
     return (
         <div className="pl-20">
            
@@ -21,5 +21,7 @@ const StuffData = ({staffData}) => {
         </div>
     );
 };
-
+StuffData.propTypes={
+    staffData:PropTypes.object
+}
 export default StuffData;
